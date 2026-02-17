@@ -1,0 +1,2 @@
+container_name,image,external_port,internal_port,status
+terraform-nginx,nginx:latest,8080,80,running
